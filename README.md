@@ -91,14 +91,6 @@ Create your own API key and configure it inside the project before running the g
 
 > Screenshots will be added soon.
 
-Recommended images:
-
-- Main Menu
-- Gameplay
-- NPC Conversation
-- Question Panel
-- AI Response Example
-
 
 ## 💡 Future Improvements
 

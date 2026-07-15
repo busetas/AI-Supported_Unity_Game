@@ -89,8 +89,8 @@ Create your own API key and configure it inside the project before running the g
 
 ## 📷 Screenshots
 
-> Screenshots will be added soon.
-
+<img width="1604" height="753" alt="{B7ECBC6F-8D41-4841-96B0-E4D9B175A69B}" src="https://github.com/user-attachments/assets/e368d0d0-43a2-4c19-9000-513f9b887d46" />
+<img width="1401" height="772" alt="{D3E2FE26-13E6-4B49-95A6-9891CD2B86DE}" src="https://github.com/user-attachments/assets/37342c52-0fab-4a61-8314-ef17e2f079ca" />
 
 ## 💡 Future Improvements
 
